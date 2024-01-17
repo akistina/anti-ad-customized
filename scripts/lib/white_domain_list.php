@@ -493,4 +493,6 @@ return [
     "techsmith.com" => 1,
     "binaryage.com" => 1,
     "wisecleaner.com" => 1,
+
+    "events.gfe.nvidia.com" => 0,
 ];
