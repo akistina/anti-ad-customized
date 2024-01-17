@@ -1,0 +1,38 @@
+name: Auto rebuild anti-AD list
+
+on:
+  push:
+    branches: [ adlist-maker ]
+    paths:
+      - '**.php'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: co master
+        uses: actions/checkout@v3
+        with:
+          ref: 'master'
+
+      # Runs a set of commands using the runners shell
+      - name: Run
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action[bot]"
+          git checkout adlist-maker
+          /bin/bash ./scripts/build-list.sh
+          git stash -a
+          git checkout master
+          git checkout stash@{0}^3 -- adblock-for-dnsmasq.conf
+          git checkout stash@{0}^3 -- anti-ad-*
+          git add * -A
+          git commit -am "Auto renew the anti-AD list."
+          git stash clear
+      - name: push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSON_TOKEN }}
+          branch: 'master'
