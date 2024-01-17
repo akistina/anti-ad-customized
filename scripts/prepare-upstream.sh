@@ -10,6 +10,7 @@ easylist=(
   "https://easylist-downloads.adblockplus.org/easylistchina.txt"
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
   "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt"
 )
 
 hosts=(
