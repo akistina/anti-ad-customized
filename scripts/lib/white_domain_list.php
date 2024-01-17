@@ -495,4 +495,5 @@ return [
     "wisecleaner.com" => 1,
 
     "events.gfe.nvidia.com" => 0,
+    "adconsent.samsungrs.com" => 0,
 ];
