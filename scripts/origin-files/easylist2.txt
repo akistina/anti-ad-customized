@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KJtGUAN9Q7Jw7WZ0g28x6Q
-! Version: 202406161831
+! Checksum: uVFzEDpWyNwP5sAEEi0g6A
+! Version: 202406191831
 ! Title: EasyList China
-! Last modified: 16 Jun 2024 18:31 UTC
+! Last modified: 19 Jun 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1703,6 +1703,34 @@ newduba.cn###jq_youxi
 ||aeyyck.xyz^
 ||poxdpj.xyz^
 ||fujnrh.xyz^
+||etjui.cn^
+||mqwmgs.xyz^
+||plzblz.xyz^
+||rrkouuz.icu^
+||cdoshbf.top^
+||60jxn4.xyz^
+||rghbvp.xyz^
+||szdgl.cn^
+||kapvu.cn^
+||kkacrgx.icu^
+||crfjxfoe.xyz^
+||hdoshbu.top^
+||ypkxka.xyz^
+||stnew.xyz^
+||xvbcjh.xyz^
+||dfvmzx.xyz^
+||fgadsqdma.top^
+||daksflkalq.top^
+||cduno.cn^
+||infocab888.life^
+||aqvi.cn^
+||ddqmlfu.icu^
+||sbiloi.xyz^
+||xxsmad2.com^
+||ffdafx.xyz^
+||idoshbo.top^
+||szdxw.cn^
+||prtadf.xyz^
 ||lnlkmr.xyz^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
@@ -11399,8 +11427,14 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||unpkg.com/hjadu/
+||so.com/com/ads?
+||ssp.moeli.net^
 !------------------------Specific element hiding rules------------------------!
+moe-acg.com##A[href*=".x8o.de"]
 szxx.com.cn###A0
+ijiandao.com,ijiandao.cn##.index-ad
+baozimh.one##.banners
 szxx.com.cn###A1
 szxx.com.cn###A2
 yahoo.com###ACT_crazy
@@ -12171,7 +12205,6 @@ qiyeku.com###index_gg
 sm.cn###index_haodongxi
 baidu.com###index_right_float
 baidu.com###index_right_top
-ijiandao.com###index_top_ad
 chinabidding.cn###info_adv_1
 58.com###infolist > .recycleInfo
 thinbug.com###inktokad
@@ -16306,7 +16339,6 @@ ifeng.com##div[class^="adv1"]
 kumi.cn##div[class^="adz"]
 cztv.com##div[class^="banner_"]
 elecfans.com##div[class^="banner_ad"]
-ijiandao.com##div[class^="banner_h_"]
 ifeng.com##div[class^="bottomDbox"]
 ifeng.com##div[class^="container-"][content^="[object"]
 78dm.net##div[class^="couple-"]
