@@ -105,7 +105,6 @@
 ||browser-intake-*-datadoghq.com^
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
-||cas.*.criteo.com^$domain=spiegel.de
 ||cdn*.swaxis.com^
 ||cdn-adn-*.rayjump.com^
 ||ce-global-track-*.amazonaws.com^
@@ -183,7 +182,6 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
-||images.*.criteo.net^$domain=spiegel.de
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
@@ -329,7 +327,6 @@
 ||v*.sitecounter.site^
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
-||vix.*.criteo.net^$domain=spiegel.de
 ||vns86.oss-*.aliyuncs.com^
 ||w*.*skwai.com^
 ||w*statistics.info^
