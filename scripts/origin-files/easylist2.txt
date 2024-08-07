@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PbdlmQZ7SIN2Z4kCPz7l1w
-! Version: 202408041831
+! Checksum: LohOa9+Ytj1v0t2vwztTKQ
+! Version: 202408071831
 ! Title: EasyList China
-! Last modified: 04 Aug 2024 18:31 UTC
+! Last modified: 07 Aug 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1683,6 +1683,7 @@ newduba.cn###jq_youxi
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
+###index_banner[src*=".meituan.net"]
 ##script + .header_rmb
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
@@ -1712,11 +1713,27 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
 !
+||fdyacma.icu^
+||wiixqm.xyz^
+||xfqynrp.cn^
+||bytmfj.xyz^
+||baijs04.shop^
+||doujs04.shop^
+||kwumme.xyz^
+||mfemiac.icu^
+||qedgcxi.cn^
+||w0054.com^
+||xlmdtiyqbkygtfkh.com^
+##a[href="https://yk63.me"]
+||uvyuqzx.cn^
 ||letlwsl.top^
 ||twerilxi.top^
 ||eyyngo.xyz^
 ||ttad125.com^
 ||tzyzlow.cn^
+||abjalrq.cn^
+||ykwykw.xyz^
+||tmoclbf.icu^
 ||script302.top^
 ||vecggfp.icu^
 ||ubeaui.xyz^
@@ -8175,7 +8192,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||hc360.com/security/201409/201409021830024990.jpg
 ||hcbbsoss.oss-cn-hangzhou.aliyuncs.com^*-banner
 ||hdchina.*/styles/topshow/AD/
-||hdmoli.com/static/js/pop_promotion.js
 ||hdsky.me/adv/
 ||hdslb.com/bfs/ad/
 ||hdslb.com/js/core-v5/picment.
@@ -10396,6 +10412,13 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+supercloudsms.com##.container > div > a[id]
+tmioe.com##.singlegg
+kdslife.com###mainRightTopAd
+huya.com##.ab-wrap
+huya.com#?#.item-pic:-abp-has(>.img-tips)
+hcbbs.com##a[href*="&adid="]
+hcbbs.com###portal_block_3441
 huya.com##.component-ab
 huya.com##.ab-content
 ddzimu.com###popup
@@ -11160,7 +11183,6 @@ image.baidu.com###imgid > .fcimgpage
 52bug.cn###index-code
 jiangjunzy.com###index-lb
 ydss.cn###indexBlad
-hdmoli.com###index_banner
 baidu.com###index_banner_top
 3dmgame.com###index_bg_box
 qiyeku.com###index_gg
@@ -13860,7 +13882,7 @@ sina.cn##.p_newsmore
 actoys.net##.p_top_ad
 cssmoban.com##.page-banner
 contents.internet.apps.samsung.com##.page-bar
-element-plus.org##.page-content-main-a
+element-plus.org##.page-content-main-b
 qidian.com##.page-ops
 boce.com##.page10Box1 > a[href^="http"]:not([href*="boce."])
 cngold.org##.pageAdv
@@ -15308,7 +15330,7 @@ weather.com.cn##div[class^="adpos"]
 silver.org.cn##div[class^="ads_"]
 xcar.com.cn##div[class^="adset"]
 hybbs.com##div[class^="adtop"]
-8684.cn,8684.com,iyxdm.net,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
+8684.cn,8684.com,iyxdm.org,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 ifeng.com##div[class^="adv0"]
 ifeng.com##div[class^="adv1"]
 kumi.cn##div[class^="adz"]
@@ -15664,7 +15686,6 @@ douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
 douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
-ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 bbs.my0511.com##embed[width="970"][height="70"]
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 fishpi.cn#?#.module:-abp-has(>.ad)
