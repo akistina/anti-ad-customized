@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: h21B4T2PERujq0d3Pp0uQg
-! Version: 202408191831
+! Checksum: E1DHL3Ut3pPwo9hyChoGbQ
+! Version: 202408221831
 ! Title: EasyList China
-! Last modified: 19 Aug 2024 18:31 UTC
+! Last modified: 22 Aug 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1716,12 +1716,40 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
 !
+||pwfqjp.xyz^
+||weacdf211.cn^
+||tufzdj.xyz^
+||kgubus.xyz^
+||reacdf311.cn^
+||jewruta.top^
+||uerbgnkas.com^
+||uftcfo.xyz^
+||55726zubo56686.com^
+||sauyv.top^
+||imgoss820.top^
+||6820tp1.com^
+||abcqq36q.vip^
+||tp1902abd.com^
+||ytghtq.xyz^
+||rkwxfi.xyz^
 ||xmlgzr.xyz^
 ||swarku.xyz^
 ||iaindu.cn^
 ||dqlrfmwp.icu^
 ||cewrutf.top^
 ||grihaith.com^
+||dabajd.xyz^
+||miycoc.xyz^
+||hewrutu.top^
+||jyjrbz.xyz^
+||kjxhd.cn^
+||doujs08.shop^
+||baijs08.shop^
+||lkdyft.xyz^
+||yuwqsk.xyz^
+||dkhffh.xyz^
+||iewruto.top^
+||myabcd.cc^
 ||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
@@ -10512,6 +10540,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||laowangblog.com^*-ad
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cn.bing.com##.b_bza_pole
 wenxuecity.com##DIV[class^="Inarticle_"]
 18183.com##.ad1
 supercloudsms.com##.container > div > a[id]
@@ -16868,7 +16897,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||winwk.com^$generichide
 @@||wuyong.fun^$generichide
 @@||wuyou.com.cn/Js/ad.js
-@@||wwads.cn/js/makemoney.js$domain=nodejs.cn
+@@||wwads.cn/js/makemoney.js$domain=baomidou.com|nodejs.cn
 @@||www.google.*/adsense/$~third-party,domain=google.cn
 @@||wx.qq.com/c/=/mpres/*/video_ad_
 @@||wx.qq.com/mmbizwap/*/framead.
