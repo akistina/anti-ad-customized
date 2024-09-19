@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fZ1mOod+ZejlWD8yeC9/dg
-! Version: 202409161831
+! Checksum: t24USkxJc44WP3pDc7sPLQ
+! Version: 202409191831
 ! Title: EasyList China
-! Last modified: 16 Sep 2024 18:31 UTC
+! Last modified: 19 Sep 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -203,7 +203,7 @@
 /ab_my/pc_pf.js
 /ab_res/m/common.js
 /ab_res/pc/fixed/fixed.js
-/acmsd/*
+/acmsd/*$script
 /AD2v1.1.js
 /ad_unified_access?
 /adcg/*
@@ -1644,6 +1644,7 @@ newduba.cn###jq_youxi
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
 ##div#ad_id
+##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
 ##.ads_topBanner
 ##div#xinxi
 ##div[bannerlist]
@@ -1719,6 +1720,46 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
 !
+||dasda64.fun^
+||iffobi.xyz^
+||jauql.top^
+||okiterk.top^
+||786yfvedhcbxjk.top^
+||ukitert.top^
+||csdcfvgf4.fun^
+||megydyk.icu^
+||quyuancn.com^$third-party
+||szapaqi.cn^
+||zjsnhl.xyz^
+||dscds111.fun^
+||qrwcss.xyz^
+||tkiteri.top^
+||cdunwi.xyz^
+||sfesdef6.fun^
+||pcxnrd.xyz^
+||wlkukrv.icu^
+||jy08.shop^
+||fq06.shop^
+||qkitery.top^
+||oqaejin.icu^
+||koytqo.xyz^
+||wkitere.top^
+||dsukqsx.icu^
+||cdscs990.fun^
+||dgrgr34.fun^
+||ijksec.xyz^
+||hsvmtn.xyz^
+||eeqweqw.fun^
+||ypkiog.xyz^
+||esyook.xyz^
+||hitoxx.xyz^
+||kzaawga.icu^
+||cdcs34.fun^
+||qdickey.top^
+||zcypmsp.icu^
+||frgf99.fun^
+||wxmhau.xyz^
+||wrsikq.xyz^
 ||bowvses.icu^
 ||mdmuky.xyz^
 ||zyrnbh.xyz^
@@ -10174,6 +10215,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 /mpc/*$domain=52xkdy.com|fydy8.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+raenonx.cc##div[style="display: flex; justify-content: center; align-items: center; position: relative;"] > iframe
+wantgoo.com##.fab-ad
+wantgoo.com##div[type="adv"]
 tmioe.com##.tphf
 39.net##.banner_g
 dcfever.com##.trading_top_banner
@@ -16571,7 +16615,7 @@ guailie.com#@#.google-ad
 18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>script+ins)
 18-comicfrieren.xyz,18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
 18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
 18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
 18-comicfrieren.xyz,18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
@@ -18066,7 +18110,7 @@ theporn.cc##.toolbar-gg
 !#torrentkitty
 ###vpnModal.nordvpn-popup
 ##.nordvpn-popup + .sidebar-vpn
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torrentkitty.one|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 .tor*/js/jquery.bpopup.
 /nordvpn/autoptimize_
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
