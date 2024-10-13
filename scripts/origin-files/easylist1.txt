@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410101604
+! Version: 202410131747
 ! Title: EasyPrivacy
-! Last modified: 10 Oct 2024 16:04 UTC
+! Last modified: 13 Oct 2024 17:47 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -125,12 +125,12 @@
 /a8c-analytics.js
 /aap/stats
 /abc.gif?
-/acc/acctag.js
 /access.php?referrer=
 /accessanalyzer/tracker?
 /AccessCounter/index.cgi?
 /accesstracking/*
 /acclog.cgi?
+/acctag.js
 /acecounter/*
 /acecounter_
 /acounter.php?
@@ -447,6 +447,7 @@
 /benchmarketingsmarttag/get?
 /better-analytics/js/loader.php
 /bf.gif?ac=
+/bi/dev/*$ping
 /bi/doop/*$ping
 /bineos.min.js
 /bing-bat.js
@@ -3132,6 +3133,7 @@ omni.soundestlink.com$image
 ||apharponloun.com^
 ||apxl.io^
 ||as3.io^
+||aseads.com^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
@@ -7568,6 +7570,7 @@ omni.soundestlink.com$image
 ||rangeplayground.com^
 ||rangergustav.com^
 ||rapidkittens.com^
+||rarestcandy.com^
 ||raresummer.com^
 ||reactjspdf.com^
 ||readgoldfish.com^
@@ -10975,6 +10978,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
 ||pixel.driveniq.com^
+||pixel.embed.su^
 ||pixel.fohr.co^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
@@ -11135,6 +11139,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rltd.io/tags/
 ||roadster.com/roadster_dealer_analytics
 ||rodale.com/ga/
+||roomvo.com/services/event/
 ||route.com/collect
 ||routeapp.io/route-analytics/
 ||rs.sinajs.cn^
@@ -12254,6 +12259,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||newelements.de/tracker/
 ||nexx.cloud/play/beacon.
 ||nexxtv-events.servicebus.windows.net^
+||nlytcs.idfnet.net^
 ||ntmb.de/count.html?
 ||oe-static.de^*/wws.js
 ||omsnative.de/tracking/
@@ -13223,6 +13229,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
 ||traffic.wdc.center^
+||web.tv/analytics/
 ! Ukranian
 ||informers.sinoptik.ua^
 ||top.zp.ua/counter/
@@ -13375,6 +13382,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.ticketmaster.
+||analytics.tomato.gg^
 ||analytics.tradedoubler.com^
 ||analytics.vedantu.com^
 ||analytics.wavebox.io^
@@ -14547,6 +14555,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||streamate.com/api/metrics
 ||streamed.su/api/preload
 ||streamelements.com/z/i.js
+||streamelements.com/z/s.js
+||streamelements.com/z/t
 ||streamlabs.com/web/data/ping
 ||streamnoads.com/stat/
 ||streamstats.prd.dlive.tv^
@@ -51265,6 +51275,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||chefkoch-cdn.de/agf/agf.js
 ||chefkoch.de/search/tracking/
 ||chefkoch.de/tracking/
+||cinestar.de/collect/
 ||click.alternate.de^
 ||cmp2.channelpartner.de^
 ||cnt.wetteronline.de^
@@ -51381,6 +51392,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||teltarif.de/scripts/fb.js
 ||teltarif.de/scripts/ttt.js
 ||teltarif.de/ttt.go?
+||teltarif.de^$ping
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
 ||tgw.web.de^
@@ -52659,6 +52671,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.vk.com/method/statEvents.$~third-party
+@@||assets.fyers.in/Lib/analytics/Analytics.js$~third-party
 @@||assets.msn.com/staticsb/statics/latest/adboxes/$script,~third-party
 @@||att.com/scripts/adobe/prod/$script,~third-party
 @@||att.com/scripts/adobe/virtual/detm-container-hdr.js$~third-party
@@ -52736,6 +52749,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
+@@||ebanking.meezanbank.com/AmbitRetailFrontEnd/js/fingerprint2.min.js$~third-party
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|ba.com|bestbuy.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/code/$script
@@ -52792,6 +52806,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||lacoste.com^*/click-analytics.js$~third-party
+@@||lamycosphere.com/cdn/shop/*/assets/pixel.gif$image,~third-party
 @@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js$~third-party
 @@||leadpages.io/analytics/v1/observations/capture?$xmlhttprequest
 @@||leanplum.com^$domain=arkadium.com
