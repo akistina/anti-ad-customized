@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410191610
+! Version: 202410221735
 ! Title: EasyPrivacy
-! Last modified: 19 Oct 2024 16:10 UTC
+! Last modified: 22 Oct 2024 17:35 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -2943,7 +2943,7 @@ _WebVitalsReporter_
 .redsift.com/e/o/$image
 .revolut.com/q/$image
 .secureserver.net/bbimage.aspx?
-.sendcloud.net/track/
+.sendcloud.net/track/$image
 .sendemail.gate.io/o/$image
 .sendibm1.com/*.gif?
 .sendibm1.com/mk/
@@ -3220,7 +3220,6 @@ omni.soundestlink.com$image
 ||everesttech.net^
 ||ew3.io^
 ||experianmatch.info^
-||ezodn.com^
 ||ezstat.ru^
 ||f27tltnd.de^
 ||fairdatacenter.de^
@@ -3418,6 +3417,7 @@ omni.soundestlink.com$image
 ||selphiu.com^
 ||seoab.io^
 ||sf-insights.io^
+||sgmntfy.com^
 ||sgstats.com^
 ||site24x7rum.eu^
 ||sitecounter.site^
@@ -8134,6 +8134,7 @@ omni.soundestlink.com$image
 ||understoodocean.com^
 ||unequalbrake.com^
 ||unequaltrail.com^
+||unicontainers.com^
 ||unifyaddition.com^
 ||uninterestedquarter.com^
 ||unknowncontrol.com^
@@ -10035,7 +10036,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ct.needlive.com^
 ||ct.pinterest.com^
 ||ct.thegear-box.com^$third-party
-||cta-service-cms2.hubspot.com^
 ||cts.businesswire.com^$third-party
 ||cts.vresp.com^$third-party
 ||curated.fieldtest.cc^
@@ -11231,6 +11231,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shopify-gtm-suite.getelevar.com/getelevar/*/dl-web-pixel-lax-custom.js
 ||shopify.com/shopifycloud/consent-tracking-api/
 ||shopify.com/shopifycloud/web-pixels-manager/
+||shoplift.ai/api/events/
 ||shoplocal.com/it.ashx?
 ||shopnetic.com^$third-party
 ||shorthand.com/analytics/
@@ -11773,6 +11774,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||virtueworldwide.com/ga-test/
 ||virtuoussoftware.com/tracker/
 ||visa.com/logging/logEvent$third-party
+||vissle.me/track/
 ||visual.ly/track.php?
 ||visualstudio.com/_da.gif?
 ||visualwebsiteoptimizer.com/dyn
@@ -14226,7 +14228,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nid.thetimes.com/prod/sp/nid_sp.js
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
-||no88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noblocktape.com/stat/
 ||noodle.backmarket.io^
@@ -14929,6 +14930,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yelp.com/ad_acknowledgment
 ||yelp.com/ad_syndication_user_tracking
 ||yelp.com/spice?
+||yes88kks.infinityscans.net^
 ||yimg.com/aaq/wf/wf-darla-
 ||yodayo.com/scripts/pixel.js
 ||you.com/api/recordEvent
@@ -51495,6 +51497,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||api.odysee.com/locale/get
 ||api.ouedkniss.com^*&xTrackId=
 ||api.tacotax.fr/v2/amplitude_trackers
+||at.pagesjaunes.fr^
 ||batiactu.com/cap_
 ||bmly.impots.gouv.fr^
 ||boingtv.fr/track_view
@@ -51561,6 +51564,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||ouest-france.fr/v1/javascripts/*-googletag-
 ||ouest-france.fr/v1/javascripts/*-prebid-
 ||p.pagesjaunes.fr^
+||pagesjaunes.fr/pmp/
 ||paruvendu.fr/*/stats/
 ||pixel.dugwood.com^
 ||pixel.ionos.fr^
@@ -53076,7 +53080,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! imrworldwide.com/v60.js
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|corriereadriatico.it|couriermail.com.au|dailyexaminer.com.au|fanpage.it|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ipswichadvertiser.com.au|la7.it|last.fm|leggo.it|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|quotidianodipuglia.it|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 ! ! mpsnare.iesnare.com
-@@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
+@@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|secure.coventrybuildingsociety.co.uk|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
 ! ! ingest.sentry.io/api/
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=core.app|orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 ! ! ci-mpsnare.iovation.com
