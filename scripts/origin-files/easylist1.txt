@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202411071803
+! Version: 202411101824
 ! Title: EasyPrivacy
-! Last modified: 07 Nov 2024 18:03 UTC
+! Last modified: 10 Nov 2024 18:24 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -6509,6 +6509,7 @@ omni.soundestlink.com$image
 ||clumsycar.com^
 ||clumsyrock.com^
 ||coachquartz.com^
+||coalkitchen.com^
 ||coatfood.com^
 ||cobaltoverture.com^
 ||coffeesidehustle.com^
@@ -6959,6 +6960,7 @@ omni.soundestlink.com$image
 ||generalprose.com^
 ||generateoffice.com^
 ||gentlemoonlight.com^
+||ghostgenie.com^
 ||giantsvessel.com^
 ||giddycoat.com^
 ||giftedglue.com^
@@ -7445,6 +7447,7 @@ omni.soundestlink.com$image
 ||persuadesupport.com^
 ||petiteumbrella.com^
 ||philippinch.com^
+||phonicsblitz.com^
 ||photographpan.com^
 ||physicalbikes.com^
 ||piespower.com^
@@ -7804,6 +7807,7 @@ omni.soundestlink.com$image
 ||skillfuldrop.com^
 ||skillfulsock.com^
 ||skisofa.com^
+||skullmagnets.com^
 ||slaysweater.com^
 ||sleepcartoon.com^
 ||slimopinion.com^
@@ -7923,6 +7927,7 @@ omni.soundestlink.com$image
 ||standingsack.com^
 ||standtrouble.com^
 ||starkscale.com^
+||startercost.com^
 ||startingcars.com^
 ||stat.pet^
 ||statementsweater.com^
@@ -9627,6 +9632,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.posthog.com/e/?ip=
 ||app.posthog.com/static/array.js
 ||app.posthog.com/static/recorder-v2.js
+||app.revenuehero.io/logs/ingest
 ||app.yesware.com/t/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
@@ -11208,6 +11214,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||salescs.com/liveagent/scripts/track.js
 ||salesforce.com/sfga.js
 ||salesloft.com/sl.js
+||salesmartly.com/client/log/
+||salesmartly.com/client/station/log?
 ||sascdn.com/mh_audience/
 ||sawpf.com/1.0.js$third-party
 ||saymedia.com/latest/tetrapak.js
@@ -13449,6 +13457,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.ffm.to/sl/e/$image
 ||api.invideo.io/v3/send_analytics_event
 ||api.narrativ.com/favicon.ico
+||api.samsungfind.com/log-collector
 ||api.streamelements.com/science/
 ||api.takealot.com^$ping
 ||api.tsc.ca/Tracking/v1/events/
@@ -13713,6 +13722,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||domaintools.com/buffer.pgif?
 ||dominos.co.uk/qRgAwS/
 ||dotesports.com/sp.js
+||downdetector.com/cdn-cgi/trace
 ||dp.shoprunner.com^
 ||dribbble.com/client_app/events
 ||dribbble.com/client_app/screenshot_boost_ad_events
@@ -14595,6 +14605,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.suenicholls.com^
 ||stats.synedat.io^
 ||stats.trimbles.ie^
+||stats.vidbinge.com^
 ||stats.vk-portal.net^
 ||stats.wordpress.com^
 ||stats.wwitv.com^
@@ -51351,8 +51362,8 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||cmp2.channelpartner.de^
 ||cnt.wetteronline.de^
 ||comparis.ch/comparis/Tracking/
+||computerbase.de/analytics
 ||computerbase.de/api2/$ping,xmlhttprequest
-||computerbase.de/blvlevblvlev
 ||cp.finanzfrage.net/stats
 ||cpx.golem.de^
 ||cpxl.golem.de^
