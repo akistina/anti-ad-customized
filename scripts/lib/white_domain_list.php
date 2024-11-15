@@ -496,4 +496,5 @@ return [
 
     "events.gfe.nvidia.com" => 0,
     "adconsent.samsungrs.com" => 0,
+    "register.xmpush.xiaomi.com" => 1,
 ];
