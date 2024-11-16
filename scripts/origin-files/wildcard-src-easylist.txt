@@ -235,6 +235,7 @@
 ||mobileanalytics.*.amazonaws.com^
 ||mobileoffers-*-download.com^
 ||mon*-*.tiktokv.us^
+||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||ms*.applvn.com^
@@ -293,6 +294,7 @@
 ||servo-report.keepstreams.*^
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
+||sonar*.xy.fbcdn.net^
 ||ssh.*.com^*!$script,third-party
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
@@ -308,6 +310,7 @@
 ||t*.zcvh.net^
 ||tag-based.s3.*.amazonaws.com^
 ||tblog-*.kgslb.com^
+||telemetry*.api.playstation.com^
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
 ||thezbpe5*.xyz^
