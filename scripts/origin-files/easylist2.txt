@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mAc2i1NeBOQRBQEO5Bu3PQ
-! Version: 202411161831
+! Checksum: G00in4RQlQSsSH0/Bwl+xw
+! Version: 202411191831
 ! Title: EasyList China
-! Last modified: 16 Nov 2024 18:31 UTC
+! Last modified: 19 Nov 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -20,6 +20,7 @@
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.as^$script,third-party
 -*-*-*-*.panda^$script,third-party
+.tv/gg/
 -1316632262.cos.
 -1316899192.cos.
 -1321533417.cos.
@@ -1735,6 +1736,32 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||gritoils.com^
+||thacreks.com^
+||snnmgdt.icu^
+||4t6u.icu^
+||scihuns.com^
+||7aey.icu^
+||htwjo.com^
+||cmelr.com^
+||yrccils0spqnkc3.xyz^
+||z9uvpwarkk1mnpf.xyz^
+||wsgnihbh.icu^
+||iflucav.icu^
+||ao1118kas.top^
+||mhwy6.icu^
+||uweisit.top^
+||oweisik.top^
+||mlgowell.org^
+||ge189.com^
+||usgowell.com^
+||usgowell.org^
+||wweisie.top^
+||yxjcyxy.icu^
+||dmevejjt.icu^
+||zfwgn.icu^
+||qweisiy.top^
+||tweisii.top^
 ||qphkuua.icu^
 ||ngxzkaxf.icu^
 ||qgg7e.icu^
@@ -10244,7 +10271,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||taiwannutrition.com/blog/wp-content/plugins/arscode-ninja-popups/
 ||taizexy.com^*.gif
 ||talkfx.*/showTKImg?
-||tangrenjie.tv/gg/
 ||tanju.vip/nyindex.
 ||tanseb.com/vads/
 ||taobaocdn.com^$image,domain=cnblogs.com
@@ -10830,8 +10856,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||twkan.com/js/otherad
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cnys.tv###player_pause
 twkan.com##.txtcenter
-element-plus.org##.page-sidebar-parent
+element-plus.org##.page-sidebar-layout
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
 sehuatang.net##DIV[class^="show-text"]
 ghxi.com##.widget_html_ad + div[style]
@@ -11544,7 +11571,7 @@ javhope.com###havhope
 chaidu.com,kdslife.com###hb
 macd.cn###hbad
 coolaler.com###hd
-jr31.xyz###hd + .wp
+jr34.xyz###hd + .wp
 gdmm.com###hd > .wp > .module
 hackhw.com,ithome.com###hd_float
 ithome.com###hd_float1
@@ -15542,7 +15569,7 @@ szjjzs.com##a[href^="/pic/tiao/"]
 chinacsbs.com##a[href^="/plus/view.php?aid="]
 96weixin.com##a[href^="/show/ads/"]
 fx112.com##a[href^="/union."]
-jr31.xyz##a[href^="ad."]
+jr34.xyz##a[href^="ad."]
 131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 boniu123.cc##a[href^="http"] > img[src*="/bn_"]
 yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/tp/"]
@@ -16733,6 +16760,8 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||aqy103.com/js/aqy/main.js
 @@||assbbs.com^$generichide
 @@||astyle.alicdn.com/??
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=uiadmin.net
+@@||uiadmin.net^$generichide
 @@||atanx.alicdn.com/t/tanxssp.js$domain=taojinbi.taobao.com
 @@||aternos.org^$generichide
 @@||av30.xyz/cs/2.js
@@ -18607,6 +18636,7 @@ _rony.js$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
 .aoao111*iis.top/$script,third-party
+/\.[a-z]weisi[a-z].top\//$script,third-party
 !
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 !#Novels
@@ -18727,7 +18757,7 @@ theporn.cc##.toolbar-gg
 !#torrentkitty
 ###vpnModal.nordvpn-popup
 ##.nordvpn-popup + .sidebar-vpn
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
 .tor*/js/jquery.bpopup.
 /nordvpn/autoptimize_
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
