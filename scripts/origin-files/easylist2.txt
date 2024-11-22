@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G00in4RQlQSsSH0/Bwl+xw
-! Version: 202411191831
+! Checksum: hTsAI4jdKmXT3YCkC4gFCw
+! Version: 202411221831
 ! Title: EasyList China
-! Last modified: 19 Nov 2024 18:31 UTC
+! Last modified: 22 Nov 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1709,6 +1709,7 @@ newduba.cn###jq_youxi
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##style + .a-loading
+##.horizontal-banner + .post-content
 ##style + .need_grid_img
 ##.player-rm > a[href*=".umtrack.com"]
 ##style + .vdgdo
@@ -1736,6 +1737,36 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||oqipegjz.icu^
+||izuts.com^
+||jweizaa.top^
+||31up.icu^
+||ao1122kas.top^
+||drenqils.com^
+||kweizad.top^
+||aoao11211iis.top^
+||luunels.com^
+||qcixkb1.xyz^
+||pjb9gv9.xyz^
+||iweizao.top^
+||nois5gj.xyz^
+||qhestrad.com^
+||vkbxaixl.icu^
+||daiitmk.cn^
+||syfgtby.cn^
+||hweizau.top^
+||1jok.icu^
+||ilzies.com^
+||cdlekgr.icu^
+||cxvyk.com^
+||990215.xyz^
+||ao1120kas.top^
+||aoao11201iis.top^
+||feubgzfx.icu^
+||1buo.icu^
+||olgrae.com^
+||3sas.icu^
+||cweizaf.top^
 ||gritoils.com^
 ||thacreks.com^
 ||snnmgdt.icu^
@@ -12857,8 +12888,8 @@ baidu.com##.b2c-universal-card-product-item-wrapper
 miliav.com##.b300
 pinshan.com##.b_adv
 pinshan.com##.b_adv2
-cn.bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
-cn.bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
+bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
+bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 cn.bing.com##.b_bza_pole
 120ask.com##.b_right > div[style]
 168gamer.com,168gamer.net##.b_tad
@@ -18635,7 +18666,7 @@ _rony.js$script,third-party
 ||lalabaos1*.top/$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
-.aoao111*iis.top/$script,third-party
+.aoao11*iis.top/$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
 !
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com

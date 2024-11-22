@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202411191659
+! Version: 202411221809
 ! Title: EasyPrivacy
-! Last modified: 19 Nov 2024 16:59 UTC
+! Last modified: 22 Nov 2024 18:09 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -3258,6 +3258,7 @@ omni.soundestlink.com$image
 ||g11885060100.co^
 ||g12083144435.co^
 ||g12281228770.co^
+||g1386590346.co^
 ||g1584674682.co^
 ||g1584674684.co^
 ||g1782759015.co^
@@ -8511,6 +8512,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eurocounter.com^$third-party
 ||exapxl.de^$third-party
 ||faibl.org^$third-party
+||fairanalytics.de^$third-party
 ||fast-counter.net^$third-party
 ||fastcounter.de^$third-party
 ||fixcounter.com^$third-party
@@ -8537,6 +8539,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hung.ch^$third-party
 ||iivt.com^$third-party
 ||imcht.net^$third-party
+||imcounter.com^$third-party
 ||ingenioustech.biz^$third-party
 ||intelliad.de^$third-party
 ||interaktiv-net.de^$third-party
@@ -9349,6 +9352,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||truehits3.gits.net.th^$third-party
 ! Turkish
 ||brainsland.com^$third-party
+||cunda.ai^$third-party
 ||elmasistatistik.com.tr^$third-party
 ||onlinewebstat.com^$third-party
 ||realist.gen.tr^$third-party
@@ -9651,6 +9655,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||appliedsemantics.com/images/x.gif
 ||applovin.com/shopify/*/pixel
 ||appmifile.com/webfile/globalweb/stat/
+||apps-pbd.ctraffic.io^
 ||apps.omegatheme.com/facebook-pixel/
 ||appsolutions.com/hitme?$third-party
 ||appspot.com/analytics/
@@ -11620,6 +11625,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
+||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.services.vaix.ai^
 ||tracker.smartframe.io^
 ||tracker.softcube.com^
@@ -11770,6 +11776,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||userway.org/api/v1/stats
 ||usizy.com/external/pageview
 ||usr.interactiveone.com^
+||utics.nodejibi.in^
 ||utils.global-e.com/set?
 ||utt.pm/utm/
 ||v.shopify.com^
@@ -13270,6 +13277,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||c.keltis.com^
 ||collector.wawlabs.com^
 ||daioncdn.net/events?
+||eticaret.pro/pixel/
 ||hulyagedikci.com/vhit.php?
 ||iyzipay.com/buyer-protection/assets/js/analytics.js
 ||izinal.com/log
@@ -13809,6 +13817,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events-tracker.deliveroo.net^
 ||events.api.godaddy.com^
 ||events.baselime.io^
+||events.bsky.app^
 ||events.character.ai^
 ||events.clips4sale.com^
 ||events.framer.com^
@@ -13958,6 +13967,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||goodreads.com/report_metric
 ||goodreads.com/track/
 ||google.com/ads/measurement/
+||google.com/async/ddllog
 ||google.com/dssw.js
 ||google.com/images/phd/px.gif
 ||google.com/log?
@@ -14935,6 +14945,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||walmart.ca/api/landing-page/beacon-logger
 ||walmartimages.com/dfw/4ff9c6c9-d9a0/$domain=walmart.com
 ||wapn1.flosports.tv^
+||watchadsontape.com/stat/
 ||wattpad.com/js/tracker/app.
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
@@ -47124,6 +47135,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! ||wl.spotify.com^
 ! ||go.playbackbone.com^
 ! ||t.ac.pandora.com^
+! ||stream.9now.com.au^
 ! 
 ! Company name: Branch.io
 ! 
@@ -51043,7 +51055,6 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||stg-deeplink.ring.md^
 ||store.echovisuals.com^
 ||store.esquirrel.at^
-||stream.9now.com.au^
 ||studio.joinsalut.com^
 ||subito.openapp.link^
 ||summary.instaread.co^
