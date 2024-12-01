@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LC1mX6KDgbjHBx8F+zd4sw
-! Version: 202411281831
+! Checksum: qSdAS6fHq4ME2HxXOBKZ9A
+! Version: 202412011831
 ! Title: EasyList China
-! Last modified: 28 Nov 2024 18:31 UTC
+! Last modified: 01 Dec 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1714,6 +1714,8 @@ newduba.cn###jq_youxi
 ##style + .need_grid_img
 ##.player-rm > a[href*=".umtrack.com"]
 ##style + .vdgdo
+##.tg-m.tg-site
+##.tg-pc.tg-site
 ##.relative > div > img[sizes="100vh"][width="0"]
 ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ###banner_links.banner-container
@@ -1738,6 +1740,33 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||jcwlsofn.icu^
+||brircel.com^
+||af6s.icu^
+||edamcsw.top^
+||e8d7.icu^
+||aoao12011iis.top^
+||a2wx.icu^
+||caaqot.com^
+||zio8.icu^
+||wdamcse.top^
+||ruqaks.com^
+||bmhtwefv.icu^
+||olkoins.com^
+||w59g.icu^
+||sdamcsb.top^
+||ao1201kas.top^
+||igabcgnh.icu^
+||saizih.com^
+||1gtp.icu^
+||96rj.icu^
+||kdamcsd.top^
+||oo3z.icu^
+||idamcso.top^
+||vrulqil.com^
+||jdamcsa.top^
+||dnd2.icu^
+||xa7j.icu^
 ||0dwm.icu^
 ||satfyxbt.icu^
 ||zodoth.com^
@@ -10934,6 +10963,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||twkan.com/js/otherad
 ||element-plus.org/images/sponsors/
 !------------------------Specific element hiding rules------------------------!
+cn.bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
 cn.bing.com#?#.b_algo:-abp-has(p[class^="b_lineclamp2 b_algoSlug "])
 szxx.com.cn###A0
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好 物))
@@ -14999,7 +15029,6 @@ cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 10fang.com##.tfy-ab
 bmlink.com##.tg
 acgbuster.moe##.tg-inner
-526bt.com,daniao.org,eroacg.com,laod.cn,myqqjd.com,ninpang.com##.tg-site
 so.com##.tg-wrap-async
 e0575.com##.tg1
 e0575.com##.tg2
@@ -18715,10 +18744,10 @@ $image,third-party,domain=258zw.com
 :6607/qy/$script,third-party
 _rony.js$script,third-party
 ||lalabaos1*.top/$script,third-party
-||ao11*kas.top/$script,third-party
+||ao1*kas.top/$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
-||aoao11*iis.top/$script,third-party
+||aoao1*iis.top/$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
 !
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
