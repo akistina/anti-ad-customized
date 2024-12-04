@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qSdAS6fHq4ME2HxXOBKZ9A
-! Version: 202412011831
+! Checksum: vhalgjwSga49568yXSJEJQ
+! Version: 202412041831
 ! Title: EasyList China
-! Last modified: 01 Dec 2024 18:31 UTC
+! Last modified: 04 Dec 2024 18:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1380,7 +1380,7 @@ newduba.cn###jq_youxi
 ##.lol_ad
 ##.lyzm-prevent
 ##.m1938-container
-~dongman8.com##.m_acmsd
+~daquandy.com##.m_acmsd
 ##.m_hot_rec_box_base[id^="right"]
 ##.main-ad-l
 ##.main-ad-r
@@ -1432,7 +1432,7 @@ newduba.cn###jq_youxi
 ##.pasuAD
 ##.pause-ad
 ##.pc-ads
-~dongman8.com##.pc_acmsd
+~daquandy.com##.pc_acmsd
 ##.pccb > .ng-star-inserted
 ##.pcd_ad
 ##.pcgg
@@ -1740,6 +1740,36 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||vokzqgjp.icu^
+||sokars.com^
+||grerzieds.com^
+||c4uy.icu^
+||k5uj.icu^
+||udamcst.top^
+||thaqne.com^
+||q1bp.icu^
+||odamcsk.top^
+||lumvkebr.icu^
+||scroscoi.com^
+||ldamcsl.top^
+||d5r.icu^
+||fo0.icu^
+||nuvaioqds.com^
+||olqead.com^
+||1yj.icu^
+||burniecrepes.com^
+||infantilecombination.com^
+||yrhxttwa.xyz^
+||bdamcsv.top^
+||sconat.com^
+||cidhmxxb.icu^
+||ig69.vip^
+||qdamcsy.top^
+||dv0i.icu^
+||4cx5.icu^
+||criqai.com^
+||fy60.icu^
+||tdamcsi.top^
 ||jcwlsofn.icu^
 ||brircel.com^
 ||af6s.icu^
@@ -10963,8 +10993,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||twkan.com/js/otherad
 ||element-plus.org/images/sponsors/
 !------------------------Specific element hiding rules------------------------!
+b0d8a0f6.com##DIV[id^="content_"]
 cn.bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
-cn.bing.com#?#.b_algo:-abp-has(p[class^="b_lineclamp2 b_algoSlug "])
+cn.bing.com#?#.b_algo:-abp-has(.cico.siteicon.rms_img[src*="bing.com/th?id=O"])
 szxx.com.cn###A0
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好 物))
 131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
@@ -10972,7 +11003,7 @@ appinn.com##a[href*=".houdeyun.cn"]
 fitacg.com##a[href*="ifift.com"]
 cnys.tv###player_pause
 twkan.com##.txtcenter
-element-plus.org##.page-sidebar-layout
+element-plus.org##.page-sidebar-group
 element-plus.org#?#div:-abp-has(>.sponsor-item)
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
 sehuatang.net##DIV[class^="show-text"]
