@@ -1,11 +1,11 @@
 !Title: anti-AD for AdGuard
-!Version: 20250315184329180500549
-!Last modified: Sat Mar 15 18:43:29 UTC 2025
-!Updated: 2025-03-15T18:43:29+00:00
+!Version: 20250317045034787758263
+!Last modified: Mon Mar 17 04:50:34 UTC 2025
+!Updated: 2025-03-17T04:50:34+00:00
 !Expires: 4 days
 !Homepage: https://anti-ad.net/
 !!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-!Total lines: 101052
+!Total lines: 101055
 @@||tracker.eu.org^
 @@||stats.uptimerobot.com^
 @@||log.mmstat.com^
@@ -580,6 +580,7 @@
 ||181m2fscr.de^
 ||184c4i95p.de^
 ||188affiliates.com^
+||ad.api.188pi.com^
 ||marketing.188weststjames.com^
 ||level.18huhu.com^
 ||highway.18manwa.com^
@@ -52107,6 +52108,7 @@
 ||metrics.lexusofwatertown.com^
 ||metrics.lexusofwayzata.com^
 ||smetrics.lexusonthepark.ca^
+||sentry-report.leyaoyao.com^
 ||img1.leyun365.com^
 ||hraovo.lezalez.com^
 ||xyxgbs.lezhin.com^
@@ -84294,6 +84296,7 @@
 ||syyycc.com^
 ||data-60d896f23d.sz-auktion.de^
 ||data-6dde45f576.sz-auktion.de^
+||ad.sz-cooleasy.com^
 ||data-a4e945dbeb.sz-fahrradfest.de^
 ||data-a4e945dbeb.sz-immo.de^
 ||data-60d896f23d.sz-jobs.de^

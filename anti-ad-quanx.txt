@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250316024329
+#VER=20250317125034
 #URL=https://github.com/akistina/anti-ad-customized
-#TOTAL_LINES=102398
+#TOTAL_LINES=102401
 host-suffix,id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com,reject
 host-suffix,vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com,reject
 host-suffix,dichvu-chuyentien24h.000webhostapp.com,reject
@@ -438,6 +438,7 @@ host-suffix,a.1800gotjunk.com,reject
 host-suffix,181m2fscr.de,reject
 host-suffix,184c4i95p.de,reject
 host-suffix,188affiliates.com,reject
+host-suffix,ad.api.188pi.com,reject
 host-suffix,marketing.188weststjames.com,reject
 host-suffix,level.18huhu.com,reject
 host-suffix,highway.18manwa.com,reject
@@ -52762,6 +52763,7 @@ host-suffix,metrics.lexusofroute10.com,reject
 host-suffix,metrics.lexusofwatertown.com,reject
 host-suffix,metrics.lexusofwayzata.com,reject
 host-suffix,smetrics.lexusonthepark.ca,reject
+host-suffix,sentry-report.leyaoyao.com,reject
 host-suffix,img1.leyun365.com,reject
 host-suffix,hraovo.lezalez.com,reject
 host-suffix,xyxgbs.lezhin.com,reject
@@ -85381,6 +85383,7 @@ host-suffix,syuwkbb.top,reject
 host-suffix,syyycc.com,reject
 host-suffix,data-60d896f23d.sz-auktion.de,reject
 host-suffix,data-6dde45f576.sz-auktion.de,reject
+host-suffix,ad.sz-cooleasy.com,reject
 host-suffix,data-a4e945dbeb.sz-fahrradfest.de,reject
 host-suffix,data-a4e945dbeb.sz-immo.de,reject
 host-suffix,data-60d896f23d.sz-jobs.de,reject
