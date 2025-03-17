@@ -5,4 +5,8 @@
 //对于个性化屏蔽的域名，全部移动到block_domains.root.conf中管理
 // Formatter: https://www.duplichecker.com/php-formatter
 
-return [];
+return [
+  "188pi.com" => ["ad.api.188pi.com"],
+  "leyaoyao.com" => ["sentry-report.leyaoyao.com"],
+  "sz-cooleasy.com" => ["ad.sz-cooleasy.com"],
+];
