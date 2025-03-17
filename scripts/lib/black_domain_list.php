@@ -8,5 +8,9 @@
 return [
   "188pi.com" => ["ad.api.188pi.com"],
   "leyaoyao.com" => ["sentry-report.leyaoyao.com"],
-  "sz-cooleasy.com" => ["ad.sz-cooleasy.com"],
+  "sz-cooleasy.com" => [
+    "ad.sz-cooleasy.com",
+    "jdstore.sz-cooleasy.com",
+  ],
+  "wechat.com" => ["dns.wechat.com"],
 ];
