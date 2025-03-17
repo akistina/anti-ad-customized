@@ -1,11 +1,11 @@
 !Title: anti-AD for AdGuard
-!Version: 20250317045034787758263
-!Last modified: Mon Mar 17 04:50:34 UTC 2025
-!Updated: 2025-03-17T04:50:34+00:00
+!Version: 20250317050515912851920
+!Last modified: Mon Mar 17 05:05:15 UTC 2025
+!Updated: 2025-03-17T05:05:15+00:00
 !Expires: 4 days
 !Homepage: https://anti-ad.net/
 !!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-!Total lines: 101055
+!Total lines: 101057
 @@||tracker.eu.org^
 @@||stats.uptimerobot.com^
 @@||log.mmstat.com^
@@ -84297,6 +84297,7 @@
 ||data-60d896f23d.sz-auktion.de^
 ||data-6dde45f576.sz-auktion.de^
 ||ad.sz-cooleasy.com^
+||jdstore.sz-cooleasy.com^
 ||data-a4e945dbeb.sz-fahrradfest.de^
 ||data-a4e945dbeb.sz-immo.de^
 ||data-60d896f23d.sz-jobs.de^
@@ -96125,6 +96126,7 @@
 ||affil.webzisk.cz^
 ||hutkse.wecandoo.fr^
 ||data.wecareplus.de^
+||dns.wechat.com^
 ||eux-stape.weclapp.com^
 ||stats.wecodeni.com^
 ||wecontemptceasless.com^

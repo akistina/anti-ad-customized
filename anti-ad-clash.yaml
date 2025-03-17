@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250317125034
+#VER=20250317130515
 #URL=https://github.com/akistina/anti-ad-customized
-#TOTAL_LINES=102401
+#TOTAL_LINES=102403
 
 #RULE-SET,AntiAd,REJECT
 payload:
@@ -85387,6 +85387,7 @@ payload:
   - '+.data-60d896f23d.sz-auktion.de'
   - '+.data-6dde45f576.sz-auktion.de'
   - '+.ad.sz-cooleasy.com'
+  - '+.jdstore.sz-cooleasy.com'
   - '+.data-a4e945dbeb.sz-fahrradfest.de'
   - '+.data-a4e945dbeb.sz-immo.de'
   - '+.data-60d896f23d.sz-jobs.de'
@@ -97426,6 +97427,7 @@ payload:
   - '+.affil.webzisk.cz'
   - '+.hutkse.wecandoo.fr'
   - '+.data.wecareplus.de'
+  - '+.dns.wechat.com'
   - '+.eux-stape.weclapp.com'
   - '+.stats.wecodeni.com'
   - '+.wecontemptceasless.com'

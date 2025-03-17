@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250317125034
+#VER=20250317130515
 #URL=https://github.com/akistina/anti-ad-customized
-#TOTAL_LINES=102401
+#TOTAL_LINES=102403
 host-suffix,id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com,reject
 host-suffix,vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com,reject
 host-suffix,dichvu-chuyentien24h.000webhostapp.com,reject
@@ -85384,6 +85384,7 @@ host-suffix,syyycc.com,reject
 host-suffix,data-60d896f23d.sz-auktion.de,reject
 host-suffix,data-6dde45f576.sz-auktion.de,reject
 host-suffix,ad.sz-cooleasy.com,reject
+host-suffix,jdstore.sz-cooleasy.com,reject
 host-suffix,data-a4e945dbeb.sz-fahrradfest.de,reject
 host-suffix,data-a4e945dbeb.sz-immo.de,reject
 host-suffix,data-60d896f23d.sz-jobs.de,reject
@@ -97423,6 +97424,7 @@ host-suffix,sozkxn.webycar.com,reject
 host-suffix,affil.webzisk.cz,reject
 host-suffix,hutkse.wecandoo.fr,reject
 host-suffix,data.wecareplus.de,reject
+host-suffix,dns.wechat.com,reject
 host-suffix,eux-stape.weclapp.com,reject
 host-suffix,stats.wecodeni.com,reject
 host-suffix,wecontemptceasless.com,reject

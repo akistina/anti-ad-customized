@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250317125033
+#VER=20250317130515
 #URL=https://github.com/akistina/anti-ad-customized
-#TOTAL_LINES=102401
+#TOTAL_LINES=102403
 
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
@@ -85386,6 +85386,7 @@
 .data-60d896f23d.sz-auktion.de
 .data-6dde45f576.sz-auktion.de
 .ad.sz-cooleasy.com
+.jdstore.sz-cooleasy.com
 .data-a4e945dbeb.sz-fahrradfest.de
 .data-a4e945dbeb.sz-immo.de
 .data-60d896f23d.sz-jobs.de
@@ -97425,6 +97426,7 @@
 .affil.webzisk.cz
 .hutkse.wecandoo.fr
 .data.wecareplus.de
+.dns.wechat.com
 .eux-stape.weclapp.com
 .stats.wecodeni.com
 .wecontemptceasless.com
