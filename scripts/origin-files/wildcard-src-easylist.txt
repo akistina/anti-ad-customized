@@ -79,6 +79,7 @@
 ||ce-global-track-*.amazonaws.com^
 ||cl*.k5a.io^
 ||clickstream-*.homedepot.com^
+||client.rum.*.amazonaws.com^
 ||clk.rtpdn*.com^
 ||clog*.yuanfudao.com^
 ||collect-elb-*.amazonaws.com^
@@ -190,10 +191,6 @@
 ||mon-*.tiktokv.com^
 ||ms*.applvn.com^
 ||mssdk*.capcutapi.com^
-||mssdk*.tiktok.com^
-||mssdk*.tiktokv.eu^
-||mssdk*.tiktokv.us^
-||mssdk*.tiktokw.us^
 ||mssdk*.zijieapi.com^
 ||orbit*.lun.ua^
 ||pangolin*.sgsnssdk.com^
@@ -240,6 +237,7 @@
 ||srmdata-*.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
+||st-n.ads*-adnow.com^
 ||staging-*.ispot.tv^
 ||stat*.1internet.tv^
 ||static*.365inews.com^
