@@ -7,6 +7,7 @@
 
 return [
   "188pi.com" => ["ad.api.188pi.com"],
+  "ahdohpiechei.com" => ["ahdohpiechei.com"],
   "leyaoyao.com" => ["sentry-report.leyaoyao.com"],
   "sz-cooleasy.com" => [
     "ad.sz-cooleasy.com",
