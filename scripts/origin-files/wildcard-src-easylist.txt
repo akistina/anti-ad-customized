@@ -147,6 +147,7 @@
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
+||events.*.oci.oraclecloud.com^
 ||f-log-*.grammarly.io^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
@@ -206,6 +207,7 @@
 ||log-v*-boot.capcutapi.com^
 ||log-va*.capcutapi.com^
 ||logger-*.dailymotion.com^
+||logging.*.oci.oraclecloud.com^
 ||logreport-global-dual.cool*cloud.com^
 ||logs*.smithsonian.museum^
 ||logs-*.rebxgame.com^
@@ -323,6 +325,8 @@
 ||tag-based.s3.*.amazonaws.com^
 ||tag-v*.kuzen.io^
 ||telemetry*.transcend.io^
+||telemetry.*.oci.oraclecloud.com^
+||telemetry.*.oraclecloud.com^
 ||telemetry.*.pvp.net^
 ||teleriumads-*.netdna-ssl.com^
 ||tnc*.tiktokv.com^
